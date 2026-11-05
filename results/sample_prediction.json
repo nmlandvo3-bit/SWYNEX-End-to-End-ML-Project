@@ -1,0 +1,13 @@
+{
+    "model": "Logistic Regression",
+    "customer_count": 1,
+    "predictions": [
+        {
+            "customer_id": "DEMO-001",
+            "predicted_churn": "Yes",
+            "churn_probability": 0.901371,
+            "no_churn_probability": 0.098629,
+            "classification_threshold": 0.54
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "project": "SWYNEX Task 4 - End-to-End ML",
+    "algorithm": "Logistic Regression",
+    "dataset": "telco_customer_churn.csv",
+    "total_records": 7043,
+    "training_records": 5634,
+    "testing_records": 1409,
+    "original_features": 19,
+    "transformed_features": 46,
+    "regularization_C": 0.1,
+    "class_weight": "balanced",
+    "classification_threshold": 0.54,
+    "random_state": 42,
+    "test_size": 0.2,
+    "split_strategy": "stratified",
+    "trained_at_utc": "2026-11-05T02:44:42.389213+00:00"
+}
